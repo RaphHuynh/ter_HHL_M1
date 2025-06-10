@@ -1,0 +1,13 @@
+*.venv
+.venv
+# Python cache files
+__pycache__/
+# Byte-compiled files
+*.py[cod]
+# Distribution / packaging
+.Python
+build/
+dist/
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
